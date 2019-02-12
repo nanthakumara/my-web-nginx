@@ -5,8 +5,8 @@ We have used AmazonLinux2 AMI for this demo
 Pre-requisites:
 1. Github account
 2. Jenkins Server
-3. An AWS account to launch EC2 Instance
-4. Docker
+3. An AWS account to launch EC2 Instance (Jenkins+Git)
+4. Dockerhub account
 
 Step 1: Github account
 Login to you github account to create your own repository to have the required deployment files.
